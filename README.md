@@ -1,3 +1,3 @@
 # Mail viewer
 
-[Heroku app link]()
+[Heroku link]()
